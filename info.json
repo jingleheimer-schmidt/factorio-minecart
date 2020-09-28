@@ -1,0 +1,9 @@
+{
+	"name": "factorio-minecart",
+	"version": "0.0.1",
+	"title": "Minecart",
+	"description": "Adds a minecart you can ride, just like minecraft.",
+	"author": "asher_sky",
+	"dependencies": ["base >= 1.0.0"],
+	"factorio_version": "1.0"
+}
