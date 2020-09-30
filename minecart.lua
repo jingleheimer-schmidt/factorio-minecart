@@ -330,7 +330,7 @@ local minecartEntity = {
   sound_minimum_speed = 0.5,
   sound_scaling_ratio = 0.35,
   water_reflection = locomotive_reflection()
-},
+}
 
 data:extend({
   minecartEntity
