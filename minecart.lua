@@ -127,14 +127,14 @@ local minecartEntity = {
         allow_low_quality_rotation = true,
         filenames =
         {
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-01.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-02.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-03.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-04.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-05.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-06.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-07.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-08.png"
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-01.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-02.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-03.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-04.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-05.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-06.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-07.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-08.png"
         },
         line_length = 4,
         lines_per_file = 8,
@@ -149,22 +149,22 @@ local minecartEntity = {
           allow_low_quality_rotation = true,
           filenames =
           {
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-1.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-2.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-3.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-4.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-5.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-6.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-7.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-8.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-9.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-10.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-11.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-12.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-13.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-14.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-15.png",
-            "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-16.png"
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-1.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-2.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-3.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-4.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-5.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-6.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-7.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-8.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-9.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-10.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-11.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-12.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-13.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-14.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-15.png",
+            "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-16.png"
           },
           line_length = 4,
           lines_per_file = 4,
@@ -182,14 +182,14 @@ local minecartEntity = {
         allow_low_quality_rotation = true,
         filenames =
         {
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-mask-01.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-mask-02.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-mask-03.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-mask-04.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-mask-05.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-mask-06.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-mask-07.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-mask-08.png"
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-mask-01.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-mask-02.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-mask-03.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-mask-04.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-mask-05.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-mask-06.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-mask-07.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-mask-08.png"
         },
         line_length = 4,
         lines_per_file = 8,
@@ -206,22 +206,22 @@ local minecartEntity = {
             allow_low_quality_rotation = true,
             filenames =
             {
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-1.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-2.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-3.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-4.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-5.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-6.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-7.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-8.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-9.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-10.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-11.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-12.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-13.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-14.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-15.png",
-              "__base__/graphics/entity/diesel-locomotive/hr-diesel-locomotive-mask-16.png"
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-1.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-2.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-3.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-4.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-5.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-6.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-7.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-8.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-9.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-10.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-11.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-12.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-13.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-14.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-15.png",
+              "__factorio-minecart__/graphics/diesel-locomotive/hr-diesel-locomotive-mask-16.png"
             },
             line_length = 4,
             lines_per_file = 4,
@@ -241,14 +241,14 @@ local minecartEntity = {
         allow_low_quality_rotation = true,
         filenames =
         {
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-shadow-01.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-shadow-02.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-shadow-03.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-shadow-04.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-shadow-05.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-shadow-06.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-shadow-07.png",
-          "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-shadow-08.png"
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-shadow-01.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-shadow-02.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-shadow-03.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-shadow-04.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-shadow-05.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-shadow-06.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-shadow-07.png",
+          "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-shadow-08.png"
         },
         line_length = 4,
         lines_per_file = 8,
@@ -258,14 +258,14 @@ local minecartEntity = {
   },
   minimap_representation =
   {
-    filename = "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-minimap-representation.png",
+    filename = "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-minimap-representation.png",
     flags = {"icon"},
     size = {20, 40},
     scale = 0.5
   },
   selected_minimap_representation =
   {
-    filename = "__base__/graphics/entity/diesel-locomotive/diesel-locomotive-selected-minimap-representation.png",
+    filename = "__factorio-minecart__/graphics/diesel-locomotive/diesel-locomotive-selected-minimap-representation.png",
     flags = {"icon"},
     size = {20, 40},
     scale = 0.5
