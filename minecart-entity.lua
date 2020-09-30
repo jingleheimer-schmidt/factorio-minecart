@@ -1,10 +1,10 @@
 local minecartEntity = {
   type = "locomotive",
-  name = "minecart",
+  name = "minecart-entity",
   icon = "__base__/graphics/icons/locomotive.png",
   icon_size = 64, icon_mipmaps = 4,
   flags = {"placeable-neutral", "player-creation", "placeable-off-grid"},
-  minable = {mining_time = 0.5, result = "locomotive"},
+  minable = {mining_time = 0.5, result = "minecart-item"},
   mined_sound = {filename = "__core__/sound/deconstruct-large.ogg",volume = 0.8},
   max_health = 1000,
   corpse = "locomotive-remnants",
